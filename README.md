@@ -14,3 +14,5 @@
 #### Pytest
 - Pytest needs to be installed as a package.
 - However, it is pretty and clean.
+- specifically looks for test_ or _test in files in order for it to work. 
+- Either at the end or beginning of the file.
